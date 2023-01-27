@@ -1,1 +1,1 @@
-cosnt str: string = "hello world!"
+const str: string = "Hello world!";
