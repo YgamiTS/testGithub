@@ -1,1 +1,1 @@
-const str: string = "Hello world!";
+const peremennai: string = "Hello world!";
